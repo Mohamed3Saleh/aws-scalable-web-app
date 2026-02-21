@@ -8,7 +8,7 @@
 
 This project demonstrates a production-ready, highly available, and scalable web application infrastructure on AWS using Infrastructure as Code (Terraform). The architecture implements AWS best practices for compute scalability, security, and cost optimization.
 
-**Author:** [Mohamed Ahmed Saleh]  
+**Author:** Mohamed Ahmed Saleh  
 **Course:** AWS Solutions Architect - Associate  
 **Project Type:** Graduation Project
 
@@ -413,11 +413,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**[Mohamed Ahmed Saleh]**
+**Mohamed Ahmed Saleh**
 - Email: M.aboelhaded33@gmail.com
-- LinkedIn: [www.linkedin.com/in/mohamed-saleh-8915a336b]
-- GitHub: [@yourusername](https://github.com/Mohamed3Saleh)
+- LinkedIn: www.linkedin.com/in/mohamed-saleh-8915a336b
+- GitHub: [@MohamedSaleh](https://github.com/Mohamed3Saleh)
 
 ---
 
-**⭐ If this project helped you, please star the repository!**
